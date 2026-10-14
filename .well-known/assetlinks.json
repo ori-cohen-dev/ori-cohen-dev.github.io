@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.luachlimud.app",
+        "sha256_cert_fingerprints": ["3A:48:56:EA:23:55:01:10:AA:2A:E3:5D:9F:CD:1C:B5:5D:68:7C:3D:4B:E5:65:1D:A2:AB:CC:FC:C4:FC:9E:AB"]
+      }
+    }]
